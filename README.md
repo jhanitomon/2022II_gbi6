@@ -1,17 +1,15 @@
 # BIOINFORMÁTICA - GBI2 PAO2 2022
-Repositorio principal de la clase. 
 
-<p align="center">👋, La clase se dicta en <a href="https://ecuador.travel/en/"> <img alt="ECUADOR" src="https://icons.iconarchive.com/icons/wikipedia/flags/128/EC-Ecuador-Flag-icon.png" width="40" height="40"> </a> en la universidad <a href="https://www.ikiam.edu.ec/"> <img alt="IKIAM UNIVERSITY" src="https://eva.ikiam.edu.ec/pluginfile.php/1/core_admin/logo/0x150/1636497623/logotipoIkiam.png" width="100" height="40"> </a> </p>
+## DATOS PERSONALES : JHANINA NICOLE TORRES MONTAQUIZA
+## PROGRAMAS UTILIZADOS : GITBASH
+## CARACTERÍSTICAS DEL EQUIPO 
+## PROCESADOR : AMD A8-7410 APU with AMD Radeon R5 Graphics,2.20 GHz
+## RAM INSTALADA : 4,00 GB (3,45 GB usable)
+## TIPO DE SISTEMA : Sistema operativo de 64 bits, procesador basado en x64
+## ESPECIFICACIONES DE WINDOWS
+## Edición :	Windows 10 Home Single Language
+## Versión :	21H1
+## Instalado el	: ‎07/‎12/‎2019
+## Compilación del sistema operativo	: 19043.2251
+## Experiencia	: Windows Feature Experience Pack 120.2212.4180.0
 
-<h3 align="center">Este es un curso para quienes cursan Ingeniría en Biotecnología</h3>
-
-Los tópicos cubiertos son: 
-- 🔭 **Python**: Datos, Manipulación, Funciones, Scipy, Pandas, MatplotLib.  
-
-- 🌱 **R** Bioconductor, Tidyverse, Tensorflow, Pytorch, Flask.
-
-<h3 align="center">Integrantes</h3>
-
-- 🔭 **Moisés Gualapuro**: Docente.  
-
-- 🌱 **Francisco Mendoza**: TA.
