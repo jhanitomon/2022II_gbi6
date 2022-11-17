@@ -13,4 +13,4 @@
 ## Compilación del sistema operativo	: 19043.2251
 ## Experiencia	: Windows Feature Experience Pack 120.2212.4180.0
 
-QUE DIFICIL
+QUE DIFICIL esta clase
